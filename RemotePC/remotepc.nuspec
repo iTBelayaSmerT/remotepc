@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+   
+    <id>remotepc</id>
+    <version>1.0</version>
+
+    <title>RemotePC (Install)</title>
+    <authors>remotePC and eliott.montero</authors>
+    <projectUrl>https://github.com/iTBelayaSmerT/remotepc.git</projectUrl>
+ 
+    <tags>remotepc</tags>
+    <summary>app for remote pc and connect with personal account</summary>
+    <description>This applications have been used in order to track all computter by remote access or alternative </description>
+   
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
